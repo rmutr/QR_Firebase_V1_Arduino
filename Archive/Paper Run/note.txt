@@ -1,0 +1,41 @@
+การบันทึกข้อมูลแบบเรียลไทม์จากอาดูย์โน่โดยใช้ไฟร์เบส
+Real-time Data Logging from Arduino using Firebase
+
+บทคัดย่อ
+
+    ไฟร์เบสเป็นระบบที่ประกอบด้วยฐานข้อมูลแบบเรียลไทม์ มันถูกพัฒนาให้รองรับแพลตฟอร์มแอนดรอย์ ไอโอเอส และ เวป เป็นหลัก 
+ดังนั้นถ้าสามารถนำข้อมูลจากอาดูย์โน่ขึ้นไปบันทึกบนไฟร์เบสได้ ข้อมูลเหล่านั้นก็จะสามารถถูกไปใช้ต่อยังแพลตฟอร์มอื่นได้โดยง่าย 
+    งานวิจัยชิ้นนี้ นำเสนอการบันทึกข้อมูลแบบเรียลไทม์จากอาดูย์โน่โดยใช้ไฟร์เบส ในการทำการทดลองได้มีการสร้างแบบจำลองสายพานลำเลียง 
+และบันทึกข้อมูลต่างๆที่เกิดขึ้นบนสายพานลำเลียงแบบเรียลไทม์ ผลจากการทดลองแสดงให้เห็นถึงความถูกต้องของข้อมูลที่บันทึกได้ 
+
+ไฟร์เบส, การบันทึกข้อมูลแบบเรียลไทม์, อาดูย์โน่
+
+    FireBase is a system that contains real-time database. It is developed to support the Android, IOS and web platforms. 
+Therefore, if able to bring data from Arduino to recording on Firebase. Those data can then be easily used to connect to other platforms. 
+    This research Presenting real-time data recording from Arduino using Firebase. In the experiment, a conveyor belt model was created 
+and record various information that occurs on the conveyor in real-time. The results of the experiment show the accuracy of the recorded data.
+
+Firebase, Real-time Data Logging, Arduino
+
+1 บทนำ 
+
+2 ทฤษฎี 
+    2.1 ไฟร์เบส (Firebase) 
+
+    2.2 อาดูย์โน่ (Arduino) 
+
+3 การออกแบบและการสร้าง 
+    3.1 บล็อกไดอะแกรม
+
+    3.2 โครงสร้างสายพานลำเลียง
+
+    3.3 โฟล์ชาร์ท (Flowchart)
+
+    3.4 อธิบายการทำงาน
+
+4 การทดลอง 
+
+5 สรุป 
+
+
+

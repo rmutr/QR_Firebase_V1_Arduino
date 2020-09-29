@@ -1,0 +1,74 @@
+p1700_format
+
+Folder Tree
+    Extra
+        - archive_extra
+            - application
+            - book
+            - datasheet
+            - driver
+            - manual
+
+    GitHub Project-X
+        - document
+            - circuit_and_pcb
+            - concept_design
+            - diagram_and_flowchart
+            - drawing
+            - image_and_photo
+            - old_document
+            - ARM ADuC7024
+            - ARM-7
+            - PIC
+
+        - source_code
+            - Android
+            - Arduino
+            - ARM ADuC7024
+            - ARM Cortex-M3
+            - ARM Friendly
+            - ARM-7
+            - ASP.Net
+            - Db MySql
+            - Db Sqlite
+            - Flash
+            - FPGA
+            - GAL
+            - GNU GCC
+            - Java
+            - LabVIEW
+            - Matlab
+            - MCS-51
+            - NETPIE Freeboard
+            - Perl
+            - PHP5
+            - PIC
+            - PIC MPLabX
+            - PLC Omron
+            - QT5
+            - Visual Basic .Net 2010
+            - Visual Basic 6.0
+            - Visual C# 2010
+            - Visual C++ 2010
+
+        - temp
+    
+Training
+    Day-1
+          คุณสมบัติ MCS-51
+          การโหลดโปรแกรมด้วย Flash Magic
+          การใช้งาน Keil
+    Day-2
+          การออกแบบวงจร Input ( Isolate )
+          การออกแบบวงจร  7-Segmant และ 74LS595 
+          การออกแบบวงจร  Switch และ Sensor
+    Day-3
+          การออกแบบ PCB ด้วย Protel
+    Day-4
+          การออกแบบ Hardware ด้วย SketchUp
+    Day-5
+          การเขียนโปรแกรมที่ใช้ใน Project
+          อธิบาย Source Code
+    Day-6
+          การเขียนโปรแกรมที่ใช้ใน Project
+          อธิบาย Source Code

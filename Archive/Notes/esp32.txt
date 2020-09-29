@@ -1,0 +1,27 @@
+1 
+Main menu [File] -> [Preferences] 
+Tab [Settings] -> [Additional Boards Manager URLs:] 
+
+https://dl.espressif.com/dl/package_esp32_index.json 
+
+
+2 
+Main menu [Tools] -> [Board:] -> [Boards Manager] 
+
+esp32
+  by Espressif System Version 1.0.4 
+
+
+3 
+Main menu [Sketch] -> [Include Library] -> [Manage Libraries] 
+
+Firebase ESP32 Client 
+  by Mobizt Version 3.6.8 
+
+4
+7Y9KHS73lEMFC9blwQZdTPKQlBNOg7Fg1kY6RyCS
+
+https://pm25tofirebase.firebaseio.com
+
+
+

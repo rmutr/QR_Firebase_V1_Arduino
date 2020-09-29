@@ -1,0 +1,19 @@
+GitHub
+//----------------------------------------------------------------------------
+https://git-scm.com/
+
+download and install
+
+cmd -> git --version
+cmd -> git config --global user.name "rmutr"
+cmd -> git config --global user.email "sanya.sam@rmutr.ac.th"
+cmd -> git config --list
+
+https://github.com/rmutr
+
+Configure -> Sittings -> Version Control -> Git -> Click Test
+
+Configure -> Sittings -> Version Control -> GitHub -> Change Auth Type from Token to Password
+Configure -> Sittings -> Version Control -> GitHub -> Click Test
+
+https://desktop.github.com/
