@@ -1,0 +1,6 @@
+https://dl.espressif.com/dl/package_esp32_index.json 
+
+https://github.com/mobizt/Firebase-ESP32?fbclid=IwAR1gV4EeaSUSG6IkdQKkrAb0qJ4BEn3BN75HVL23CCuovPbqRR96paNkab0 
+
+https://firebase.google.com/ 
+
