@@ -1,0 +1,53 @@
+1 
+Main menu [File] -> [Preferences] 
+Tab [Settings] -> [Additional Boards Manager URLs:] 
+Enter a comma (,) separated list of urls 
+
+https://dl.espressif.com/dl/package_esp32_index.json 
+
+
+2 
+Main menu [Tools] -> [Board:] -> [Boards Manager] 
+
+esp32
+  by Espressif System Version 1.0.4 
+
+Main menu [Tools] -> [Board:] -> Node32s 
+
+
+3 
+Main menu [Sketch] -> [Include Library] -> [Manage Libraries] 
+
+Firebase ESP32 Client 
+  by Mobizt Version 3.6.9 
+
+
+4 
+https://firebase.google.com/ 
+
+7Y9KHS73lEMFC9blwQZdTPKQlBNOg7Fg1kY6RyCS
+
+https://pm25tofirebase.firebaseio.com
+
+
+5 
+Main menu [Sketch] -> [Include Library] -> [Manage Libraries] 
+
+Adafruit SSD1306 
+  by Adafruit Version 2.2.1 
+
+
+6 
+Main menu [Sketch] -> [Include Library] -> [Manage Libraries] 
+
+ESP32 BLE Arduino 
+  by Neil Kolban Version 1.0.1 
+
+7 
+Main menu [Sketch] -> [Include Library] -> [Manage Libraries] 
+
+LiquidCrystal I2C 
+  by Frank de Brabander Version 1.1.2 
+
+LiquidCrystal_PCF8574 
+  by Matthias Hertel Version 1.2.0 
